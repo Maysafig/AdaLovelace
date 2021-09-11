@@ -5,3 +5,5 @@ Olá! Esse é um projeto de desenvolvimento de um site que conta a história da 
 Para a criação do site foi usado HTML, CSS e Javascript.
 
 [Acesse o site](https://siteada.maysafig.repl.co/)
+
+[enter image description here](https://github.com/Maysafig/AdaLovelace/tree/master/assets/site-ada.gif?raw=true)

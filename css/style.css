@@ -68,6 +68,7 @@ body{
      height:40px;
      max-width:60%;
      margin:0 auto;
+     border-radius: 10px;
    }
   
     .principal a{
