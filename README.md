@@ -6,4 +6,4 @@ Para a criação do site foi usado HTML, CSS e Javascript.
 
 [Acesse o site](https://siteada.maysafig.repl.co/)
 
-![alt text](assets/site-ada.gif)
+![alt text](assets/siteada.gif)
